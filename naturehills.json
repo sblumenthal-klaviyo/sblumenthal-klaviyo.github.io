@@ -1,0 +1,15 @@
+[
+  {
+    "id":"10005772",
+    "SKU":"10005772",
+    "title":"Dancing With Dragons Hosta",
+    "link":"https://www.naturehills.com/dancing-with-dragons-hosta",
+    "description":"Wavy edges in soft blue-green, the Dancing With Dragons Hosta (Hosta 'Dancing with Dragons') the rippled and undulating leaves with long points. Enjoy the near-white undersides of each leaf when they flutter in the breeze. The blue cast to the leaves adds a cooling hue to the landscape, and the glaucous bloom over the foliage surface adds a touch of whimsy as water readily beads up or pools on the leaves!",
+    "price":69.59,
+    "image_link":"https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/d/a/dancing_with_dragons_hosta_1_600x600.webp",
+    "categories":["hostas"],
+    "inventory_quantity":25,
+    "inventory_policy":1,
+    "grow_zones":"6-9"
+  }
+]
