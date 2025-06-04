@@ -1,6 +1,10 @@
 [
   {
-    "name": "Marciana Marina: via R. Margherita",
+    "$title": "Marciana Marina: via R. Margherita",
+    "$id": "12345",
+    "$description": "Marciana Marina: via R. Margherita",
+    "$link": "https://acquadellelba.us/pages/retail-locations-in-italy",
+    "$image_link": "https://acquadellelba.us/cdn/shop/files/1_labaldomoro_870x573_3b9f4493-41c1-437c-83bf-e006f76e29fd.jpg?v=1651103100&width=1080",
     "$address1": "via Regina Margherita 54",
     "$city": "Marciana Marina",
     "$region": "LI",
