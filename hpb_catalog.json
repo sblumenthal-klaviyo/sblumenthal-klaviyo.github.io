@@ -1,0 +1,35 @@
+[
+  {
+    "id":"HPB-BOOK1",
+    "title":"El poder de tu mente subconsciente / The Power of Your Subconscious Mind : Simplemente usando el poder de tu mente subconsciente puedes alcanzar una prosperidad, una felicidad y una paz mental sin limites / The Power, Peace & Prosperity of Your Subconscious Mind",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "inventory_quantity":25,
+    "inventory_policy":1
+  },
+  {
+    "id":"HPB-BOOK2",
+    "title":"Classic Klaviyo T-Shirt 2",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "inventory_quantity":30,
+    "inventory_policy":1
+  },
+  {
+    "id":"HPB-BOOK3",
+    "title":"Classic Klaviyo T-Shirt 3",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "inventory_quantity":0,
+    "inventory_policy":1
+  }
+]
